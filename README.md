@@ -9,6 +9,8 @@ Please install the following libraries:
 pip install -U scikit-learn
 conda install -c pyviz hvplot
 ```
+The following plots show the results of the analysis performed on the data in the crypto_market_data.csv file, located in the Resources folder:
+
 ![](images/original_elbow_curve.png)
 
 ![](images/original_scatter_plot.png)
