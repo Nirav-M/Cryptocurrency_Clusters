@@ -9,4 +9,10 @@ Please install the following libraries:
 pip install -U scikit-learn
 conda install -c pyviz hvplot
 ```
-![](images/Screen Shot 2022-08-25 at 5.55.51 PM.png)
+![](images/original_elbow_curve.png)
+
+![](images/original_scatter_plot.png)
+
+![](images/pca_elbow_curve.png)
+
+![](images/pca_scatter_plot.png)
